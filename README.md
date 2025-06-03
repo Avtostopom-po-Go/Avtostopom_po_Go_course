@@ -8,3 +8,5 @@ https://t.me/+wplfZXoPujI0N2Zi
 
 Менторство:
 https://teletype.in/@avtostopom_po_go/IT_mentor
+
+Задачи можно найти также тут -> https://github.com/nosuchpersonn/golang_interview/tree/main и тут -> https://github.com/dmitryrpm/maxima-tests/tree/master
